@@ -1,0 +1,122 @@
+{
+  "started_at": "2026-11-03T17:57:46.878809+00:00",
+  "finished_at": "2026-11-03T18:00:13.282604+00:00",
+  "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
+  "native_status": {
+    "contract": "energyhot-reader-v1",
+    "at": "2026-11-03T17:57:46.914Z",
+    "live": 559,
+    "selected": 15,
+    "updated": "2026-11-03T17:57:43.986Z",
+    "events": 457,
+    "daily_editions": 8,
+    "categories": [
+      {
+        "count": 18,
+        "category": "ai_energy"
+      },
+      {
+        "count": 17,
+        "category": "coal"
+      },
+      {
+        "count": 9,
+        "category": "hydro"
+      },
+      {
+        "count": 31,
+        "category": "hydrogen"
+      },
+      {
+        "count": 54,
+        "category": "industry"
+      },
+      {
+        "count": 45,
+        "category": "nuclear"
+      },
+      {
+        "count": 95,
+        "category": "oil_gas"
+      },
+      {
+        "count": 74,
+        "category": "power_grid"
+      },
+      {
+        "count": 54,
+        "category": "storage"
+      },
+      {
+        "count": 158,
+        "category": "wind_solar"
+      },
+      {
+        "count": 4,
+        "category": null
+      }
+    ],
+    "editions": [
+      {
+        "key": "2026-10-27",
+        "revision": 2,
+        "generatedAt": "2026-10-27T05:24:44.883426+00:00"
+      },
+      {
+        "key": "2026-10-28",
+        "revision": 1,
+        "generatedAt": "2026-10-28T00:00:14.03635+00:00"
+      },
+      {
+        "key": "2026-10-29",
+        "revision": 1,
+        "generatedAt": "2026-10-29T00:01:03.636948+00:00"
+      },
+      {
+        "key": "2026-10-30",
+        "revision": 1,
+        "generatedAt": "2026-10-30T00:00:51.275069+00:00"
+      },
+      {
+        "key": "2026-10-31",
+        "revision": 1,
+        "generatedAt": "2026-10-31T00:00:31.47878+00:00"
+      },
+      {
+        "key": "2026-11-01",
+        "revision": 1,
+        "generatedAt": "2026-11-01T00:00:30.356982+00:00"
+      },
+      {
+        "key": "2026-11-02",
+        "revision": 1,
+        "generatedAt": "2026-11-02T00:00:29.63849+00:00"
+      },
+      {
+        "key": "2026-11-03",
+        "revision": 1,
+        "generatedAt": "2026-11-03T00:00:39.038817+00:00"
+      }
+    ],
+    "hot": 1,
+    "hot_updated": "2026-11-03T17:57:40.210Z",
+    "archive": 405,
+    "modelsCalled": 0
+  },
+  "stories_exported": 559,
+  "pages_exported": 1095,
+  "unavailable_routes": {},
+  "models_called": 0,
+  "collector_calls": 0,
+  "release_id": "20261103T175746-453c3ea0",
+  "content_digest": "cd4a9b36cd062857197314a2e12e28b383ec8edae8cec1791eeb0e56155a6c71",
+  "automatic_sync_installed": true,
+  "sync_interval_seconds": 600,
+  "private_archive_exported": false,
+  "workbench_exported": false,
+  "internal_links_checked": 41348,
+  "internal_broken_links": 0,
+  "upstream_brand_assets_exported": false,
+  "unconfirmed_terms_exported": false,
+  "upstream_pin": "ce8348477438cce2b417c1403290a511c812a7c5"
+}
