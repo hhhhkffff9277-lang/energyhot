@@ -1,13 +1,13 @@
 {
-  "started_at": "2026-11-04T15:37:45.435435+00:00",
-  "finished_at": "2026-11-04T15:40:49.299536+00:00",
+  "started_at": "2026-11-04T15:51:52.877500+00:00",
+  "finished_at": "2026-11-04T15:55:02.938423+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T15:37:45.462Z",
-    "live": 644,
+    "at": "2026-11-04T15:51:52.915Z",
+    "live": 645,
     "selected": 18,
-    "updated": "2026-11-04T15:27:53.575Z",
+    "updated": "2026-11-04T15:46:37.333Z",
     "events": 523,
     "daily_editions": 9,
     "categories": [
@@ -48,7 +48,7 @@
         "category": "storage"
       },
       {
-        "count": 183,
+        "count": 184,
         "category": "wind_solar"
       },
       {
@@ -104,23 +104,23 @@
       }
     ],
     "hot": 3,
-    "hot_updated": "2026-11-04T15:37:35.755Z",
+    "hot_updated": "2026-11-04T15:50:55.818Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 644,
-  "pages_exported": 1256,
+  "stories_exported": 645,
+  "pages_exported": 1257,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T153745-a6c1c48b",
-  "content_digest": "05699da4c00abc6794c057731528ceedc97c6c7abbec94a5d0e2556ff3b2b46c",
+  "release_id": "20261104T155152-886294c1",
+  "content_digest": "76a2a3e99b5a9c035e1e09448e17c953a042b21c9f7d0165ec2b57c64c535f99",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 47445,
+  "internal_links_checked": 47489,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
