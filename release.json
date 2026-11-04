@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-04T19:55:50.213255+00:00",
-  "finished_at": "2026-11-04T19:58:54.842107+00:00",
+  "started_at": "2026-11-04T20:10:00.560208+00:00",
+  "finished_at": "2026-11-04T20:13:04.290442+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T19:55:50.235Z",
-    "live": 660,
+    "at": "2026-11-04T20:10:00.599Z",
+    "live": 663,
     "selected": 18,
-    "updated": "2026-11-04T19:44:48.577Z",
-    "events": 535,
+    "updated": "2026-11-04T20:09:08.488Z",
+    "events": 536,
     "daily_editions": 9,
     "categories": [
       {
@@ -28,11 +28,11 @@
         "category": "hydrogen"
       },
       {
-        "count": 63,
+        "count": 65,
         "category": "industry"
       },
       {
-        "count": 53,
+        "count": 54,
         "category": "nuclear"
       },
       {
@@ -104,23 +104,23 @@
       }
     ],
     "hot": 0,
-    "hot_updated": "2026-11-04T19:55:49.186Z",
+    "hot_updated": "2026-11-04T20:09:04.469Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 660,
-  "pages_exported": 1284,
+  "stories_exported": 663,
+  "pages_exported": 1287,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T195550-e27c0255",
-  "content_digest": "fabf1327ffbffc5a735e7e7ac81eadf8ff6bc9b8c7d1de2b1acd596696a318a5",
+  "release_id": "20261104T201000-4fed0bae",
+  "content_digest": "fb324c1b424ad272b2b8d6467550f71bfd7f2f5fe3978f79fa5b89d1291556e9",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 48443,
+  "internal_links_checked": 48558,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
