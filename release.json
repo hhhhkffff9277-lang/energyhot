@@ -1,10 +1,10 @@
 {
-  "started_at": "2026-11-04T03:12:14.442579+00:00",
-  "finished_at": "2026-11-04T03:15:00.141662+00:00",
+  "started_at": "2026-11-04T03:26:27.007792+00:00",
+  "finished_at": "2026-11-04T03:29:08.003341+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T03:12:14.471Z",
+    "at": "2026-11-04T03:26:27.031Z",
     "live": 582,
     "selected": 16,
     "updated": "2026-11-04T02:22:12.750Z",
@@ -104,7 +104,7 @@
       }
     ],
     "hot": 1,
-    "hot_updated": "2026-11-04T03:11:46.547Z",
+    "hot_updated": "2026-11-04T03:26:07.220Z",
     "archive": 405,
     "modelsCalled": 0
   },
@@ -113,8 +113,8 @@
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T031214-da472c66",
-  "content_digest": "9f9acc48226bc436426b39c20d712bf88e86d82dc42cca1329c330d3010219ad",
+  "release_id": "20261104T032627-d2c7993f",
+  "content_digest": "cbdc8b1e1519e1e569a4d19fee676ca961251148f3a0a15593acc8d335a73545",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
