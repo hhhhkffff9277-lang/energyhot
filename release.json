@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-04T17:10:14.924470+00:00",
-  "finished_at": "2026-11-04T17:13:18.881504+00:00",
+  "started_at": "2026-11-04T17:24:30.666222+00:00",
+  "finished_at": "2026-11-04T17:27:35.974829+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T17:10:14.954Z",
-    "live": 655,
+    "at": "2026-11-04T17:24:30.687Z",
+    "live": 657,
     "selected": 18,
-    "updated": "2026-11-04T17:07:02.417Z",
-    "events": 531,
+    "updated": "2026-11-04T17:17:05.270Z",
+    "events": 533,
     "daily_editions": 9,
     "categories": [
       {
@@ -28,7 +28,7 @@
         "category": "hydrogen"
       },
       {
-        "count": 61,
+        "count": 62,
         "category": "industry"
       },
       {
@@ -44,7 +44,7 @@
         "category": "power_grid"
       },
       {
-        "count": 61,
+        "count": 62,
         "category": "storage"
       },
       {
@@ -104,23 +104,23 @@
       }
     ],
     "hot": 0,
-    "hot_updated": "2026-11-04T17:09:12.314Z",
+    "hot_updated": "2026-11-04T17:23:34.178Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 655,
-  "pages_exported": 1273,
+  "stories_exported": 657,
+  "pages_exported": 1277,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T171014-77ee1183",
-  "content_digest": "bd88770e2565dbcb7f9ab1ba0f8760b9d520a8415aee3ba8cb92c49fdbd3453f",
+  "release_id": "20261104T172430-de702a1f",
+  "content_digest": "419aa1191a089f50643b80820e8dbbe242aa70771171f81cf3d76c47e8c3d0ef",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 48032,
+  "internal_links_checked": 48182,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
