@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-04T13:57:51.156342+00:00",
-  "finished_at": "2026-11-04T14:00:54.843406+00:00",
+  "started_at": "2026-11-04T14:12:06.126381+00:00",
+  "finished_at": "2026-11-04T14:15:07.891175+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T13:57:51.183Z",
-    "live": 637,
+    "at": "2026-11-04T14:12:06.156Z",
+    "live": 638,
     "selected": 18,
-    "updated": "2026-11-04T13:57:23.059Z",
-    "events": 518,
+    "updated": "2026-11-04T14:11:40.983Z",
+    "events": 519,
     "daily_editions": 9,
     "categories": [
       {
@@ -36,7 +36,7 @@
         "category": "nuclear"
       },
       {
-        "count": 116,
+        "count": 117,
         "category": "oil_gas"
       },
       {
@@ -104,23 +104,23 @@
       }
     ],
     "hot": 3,
-    "hot_updated": "2026-11-04T13:57:16.339Z",
+    "hot_updated": "2026-11-04T14:11:36.387Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 637,
-  "pages_exported": 1243,
+  "stories_exported": 638,
+  "pages_exported": 1245,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T135751-6dc9b4a7",
-  "content_digest": "51288ce053074a741da0125740aacecee2137fbfecbf6b91b725fb482bb913a0",
+  "release_id": "20261104T141206-a66ef207",
+  "content_digest": "8d67d84e1a1c06676be2e1ad6eb82bcdc90b9d83b3dcc608555ab0da8c6c9c6a",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 46953,
+  "internal_links_checked": 47023,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
