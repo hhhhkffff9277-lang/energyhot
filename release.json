@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-04T05:30:51.054879+00:00",
-  "finished_at": "2026-11-04T05:33:42.641762+00:00",
+  "started_at": "2026-11-04T05:44:44.895787+00:00",
+  "finished_at": "2026-11-04T05:47:18.299174+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T05:30:51.079Z",
-    "live": 592,
+    "at": "2026-11-04T05:44:44.924Z",
+    "live": 594,
     "selected": 17,
-    "updated": "2026-11-04T05:27:54.595Z",
-    "events": 483,
+    "updated": "2026-11-04T05:44:29.504Z",
+    "events": 485,
     "daily_editions": 9,
     "categories": [
       {
@@ -24,7 +24,7 @@
         "category": "hydro"
       },
       {
-        "count": 33,
+        "count": 34,
         "category": "hydrogen"
       },
       {
@@ -36,7 +36,7 @@
         "category": "nuclear"
       },
       {
-        "count": 104,
+        "count": 105,
         "category": "oil_gas"
       },
       {
@@ -104,23 +104,23 @@
       }
     ],
     "hot": 1,
-    "hot_updated": "2026-11-04T05:30:03.737Z",
+    "hot_updated": "2026-11-04T05:44:26.521Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 592,
-  "pages_exported": 1159,
+  "stories_exported": 594,
+  "pages_exported": 1163,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T053051-29d3c6b7",
-  "content_digest": "57e8f4133d59453cb5819f83e0c51e1ce5f2afde78533af2471d737ab5b7366a",
+  "release_id": "20261104T054444-35b6e1aa",
+  "content_digest": "465746f74912a324cbe46a2f91019b0c12352a3cbb86a5226e950782c42405f0",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 43781,
+  "internal_links_checked": 43926,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
