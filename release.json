@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-04T14:40:58.510181+00:00",
-  "finished_at": "2026-11-04T14:43:50.979221+00:00",
+  "started_at": "2026-11-04T14:55:05.704477+00:00",
+  "finished_at": "2026-11-04T14:58:12.288987+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T14:40:58.525Z",
-    "live": 638,
+    "at": "2026-11-04T14:55:05.730Z",
+    "live": 641,
     "selected": 18,
-    "updated": "2026-11-04T14:11:40.983Z",
-    "events": 519,
+    "updated": "2026-11-04T14:49:16.119Z",
+    "events": 521,
     "daily_editions": 9,
     "categories": [
       {
@@ -20,7 +20,7 @@
         "category": "coal"
       },
       {
-        "count": 9,
+        "count": 12,
         "category": "hydro"
       },
       {
@@ -104,23 +104,23 @@
       }
     ],
     "hot": 3,
-    "hot_updated": "2026-11-04T14:40:21.013Z",
+    "hot_updated": "2026-11-04T14:54:42.068Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 638,
-  "pages_exported": 1245,
+  "stories_exported": 641,
+  "pages_exported": 1251,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T144058-17e0fa19",
-  "content_digest": "49e31136d69685d1f21fcfea8b7499845b6c4b0b3231159c14136f8cc62d8832",
+  "release_id": "20261104T145505-e33f5738",
+  "content_digest": "426591a0db930ce34e642b2245b658e067ce9d54987ee6f7b9402d5a53baedfc",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 47023,
+  "internal_links_checked": 47257,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
