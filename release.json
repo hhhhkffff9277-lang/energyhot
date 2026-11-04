@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-04T08:57:33.299669+00:00",
-  "finished_at": "2026-11-04T08:59:43.822354+00:00",
+  "started_at": "2026-11-04T09:10:43.787747+00:00",
+  "finished_at": "2026-11-04T09:13:10.162765+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T08:57:33.328Z",
-    "live": 604,
+    "at": "2026-11-04T09:10:43.816Z",
+    "live": 608,
     "selected": 17,
-    "updated": "2026-11-04T08:00:51.558Z",
-    "events": 492,
+    "updated": "2026-11-04T09:08:42.546Z",
+    "events": 495,
     "daily_editions": 9,
     "categories": [
       {
@@ -24,7 +24,7 @@
         "category": "hydro"
       },
       {
-        "count": 35,
+        "count": 36,
         "category": "hydrogen"
       },
       {
@@ -36,7 +36,7 @@
         "category": "nuclear"
       },
       {
-        "count": 108,
+        "count": 109,
         "category": "oil_gas"
       },
       {
@@ -48,7 +48,7 @@
         "category": "storage"
       },
       {
-        "count": 168,
+        "count": 170,
         "category": "wind_solar"
       },
       {
@@ -104,23 +104,23 @@
       }
     ],
     "hot": 2,
-    "hot_updated": "2026-11-04T08:56:48.376Z",
+    "hot_updated": "2026-11-04T09:09:44.237Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 604,
-  "pages_exported": 1181,
+  "stories_exported": 608,
+  "pages_exported": 1188,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T085733-a7f49988",
-  "content_digest": "6b37308f46b53a3ddbdeb1527b33533c96265fb0a1eb72bc0232dd46f90c490d",
+  "release_id": "20261104T091043-394b6e60",
+  "content_digest": "99abe2fa1aa46241f348754a720b11f857d8210f72e625e9337795061d3620d8",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 44623,
+  "internal_links_checked": 44890,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
