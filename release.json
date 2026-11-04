@@ -1,13 +1,13 @@
 {
-  "started_at": "2026-11-04T13:01:36.215494+00:00",
-  "finished_at": "2026-11-04T13:04:24.679408+00:00",
+  "started_at": "2026-11-04T13:15:27.361007+00:00",
+  "finished_at": "2026-11-04T13:18:25.671155+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T13:01:36.246Z",
-    "live": 628,
+    "at": "2026-11-04T13:15:27.390Z",
+    "live": 629,
     "selected": 18,
-    "updated": "2026-11-04T12:54:22.433Z",
+    "updated": "2026-11-04T13:14:15.356Z",
     "events": 511,
     "daily_editions": 9,
     "categories": [
@@ -40,7 +40,7 @@
         "category": "oil_gas"
       },
       {
-        "count": 79,
+        "count": 80,
         "category": "power_grid"
       },
       {
@@ -104,23 +104,23 @@
       }
     ],
     "hot": 3,
-    "hot_updated": "2026-11-04T13:00:56.623Z",
+    "hot_updated": "2026-11-04T13:15:17.023Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 628,
-  "pages_exported": 1225,
+  "stories_exported": 629,
+  "pages_exported": 1226,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T130136-0506c9d8",
-  "content_digest": "44297ca01ffae535b3318e4c74671dcc9deb03b65e0089d85ee7b96b0a4cddef",
+  "release_id": "20261104T131527-dfdc8570",
+  "content_digest": "654548e7ed8fdaa84a814151e8460cf6cf2fd5000373df3c40e20c73142131c4",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 46272,
+  "internal_links_checked": 46314,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
