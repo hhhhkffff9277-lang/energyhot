@@ -1,22 +1,22 @@
 {
-  "started_at": "2026-11-05T11:32:20.197234+00:00",
-  "finished_at": "2026-11-05T11:35:38.966467+00:00",
+  "started_at": "2026-11-05T11:46:42.903008+00:00",
+  "finished_at": "2026-11-05T11:50:00.154137+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-05T11:32:20.225Z",
-    "live": 698,
+    "at": "2026-11-05T11:46:42.950Z",
+    "live": 703,
     "selected": 21,
-    "updated": "2026-11-05T11:02:29.434Z",
-    "events": 560,
+    "updated": "2026-11-05T11:45:39.726Z",
+    "events": 563,
     "daily_editions": 10,
     "categories": [
       {
-        "count": 23,
+        "count": 24,
         "category": "ai_energy"
       },
       {
-        "count": 21,
+        "count": 22,
         "category": "coal"
       },
       {
@@ -24,11 +24,11 @@
         "category": "hydro"
       },
       {
-        "count": 41,
+        "count": 42,
         "category": "hydrogen"
       },
       {
-        "count": 66,
+        "count": 67,
         "category": "industry"
       },
       {
@@ -48,7 +48,7 @@
         "category": "storage"
       },
       {
-        "count": 198,
+        "count": 199,
         "category": "wind_solar"
       },
       {
@@ -109,23 +109,23 @@
       }
     ],
     "hot": 2,
-    "hot_updated": "2026-11-05T11:32:17.336Z",
+    "hot_updated": "2026-11-05T11:46:39.471Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 698,
-  "pages_exported": 1351,
+  "stories_exported": 703,
+  "pages_exported": 1359,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261105T113220-3a3f77de",
-  "content_digest": "8dae8fb0cf28cf11c664a5d45ec7c8a601e731a423d14a97cee400c9ffc1608e",
+  "release_id": "20261105T114642-938e9d00",
+  "content_digest": "1b617162c29884f0a467a65e99798593d5d4160a84549224017bbfa176d79498",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 51089,
+  "internal_links_checked": 51401,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
