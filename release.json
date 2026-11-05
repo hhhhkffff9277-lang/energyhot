@@ -1,18 +1,18 @@
 {
-  "started_at": "2026-11-04T23:43:27.119156+00:00",
-  "finished_at": "2026-11-04T23:46:36.205135+00:00",
+  "started_at": "2026-11-05T03:38:53.252943+00:00",
+  "finished_at": "2026-11-05T03:41:58.770180+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-04T23:43:27.153Z",
-    "live": 674,
+    "at": "2026-11-05T03:38:53.280Z",
+    "live": 682,
     "selected": 19,
-    "updated": "2026-11-04T23:39:58.910Z",
-    "events": 545,
-    "daily_editions": 9,
+    "updated": "2026-11-05T03:15:40.857Z",
+    "events": 548,
+    "daily_editions": 10,
     "categories": [
       {
-        "count": 21,
+        "count": 22,
         "category": "ai_energy"
       },
       {
@@ -28,7 +28,7 @@
         "category": "hydrogen"
       },
       {
-        "count": 65,
+        "count": 66,
         "category": "industry"
       },
       {
@@ -36,19 +36,19 @@
         "category": "nuclear"
       },
       {
-        "count": 121,
+        "count": 122,
         "category": "oil_gas"
       },
       {
-        "count": 83,
+        "count": 84,
         "category": "power_grid"
       },
       {
-        "count": 63,
+        "count": 64,
         "category": "storage"
       },
       {
-        "count": 191,
+        "count": 194,
         "category": "wind_solar"
       },
       {
@@ -101,26 +101,31 @@
         "key": "2026-11-04",
         "revision": 1,
         "generatedAt": "2026-11-04T00:01:05.671394+00:00"
+      },
+      {
+        "key": "2026-11-05",
+        "revision": 1,
+        "generatedAt": "2026-11-05T00:00:52.187067+00:00"
       }
     ],
-    "hot": 0,
-    "hot_updated": "2026-11-04T23:43:13.583Z",
+    "hot": 1,
+    "hot_updated": "2026-11-05T03:38:20.210Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 674,
-  "pages_exported": 1309,
+  "stories_exported": 682,
+  "pages_exported": 1322,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261104T234327-72e73af8",
-  "content_digest": "6cc47ba63e8bf7884c7ad44bf27b30b2246e53a58a0962b3785bdc51c52822ae",
+  "release_id": "20261105T033853-aa5f6ce6",
+  "content_digest": "497638abacafb93633175dab948d1e96fd31a99bb7e4d0695932a35b09ba3f92",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 49407,
+  "internal_links_checked": 49956,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
