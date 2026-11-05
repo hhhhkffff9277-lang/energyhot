@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-05T08:40:08.243092+00:00",
-  "finished_at": "2026-11-05T08:43:18.134907+00:00",
+  "started_at": "2026-11-05T08:54:20.608887+00:00",
+  "finished_at": "2026-11-05T08:57:32.426939+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-05T08:40:08.266Z",
-    "live": 687,
+    "at": "2026-11-05T08:54:20.632Z",
+    "live": 690,
     "selected": 19,
-    "updated": "2026-11-05T08:24:55.912Z",
-    "events": 552,
+    "updated": "2026-11-05T08:46:52.379Z",
+    "events": 555,
     "daily_editions": 10,
     "categories": [
       {
@@ -36,11 +36,11 @@
         "category": "nuclear"
       },
       {
-        "count": 122,
+        "count": 123,
         "category": "oil_gas"
       },
       {
-        "count": 84,
+        "count": 85,
         "category": "power_grid"
       },
       {
@@ -48,7 +48,7 @@
         "category": "storage"
       },
       {
-        "count": 195,
+        "count": 196,
         "category": "wind_solar"
       },
       {
@@ -109,23 +109,23 @@
       }
     ],
     "hot": 1,
-    "hot_updated": "2026-11-05T08:39:06.422Z",
+    "hot_updated": "2026-11-05T08:53:18.463Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 687,
-  "pages_exported": 1332,
+  "stories_exported": 690,
+  "pages_exported": 1338,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261105T084008-93a0cd77",
-  "content_digest": "5daf32288b994fba7fdf016211d47674bab68e2833180736df6dffd4f3caf3a5",
+  "release_id": "20261105T085420-18407f35",
+  "content_digest": "d1c0d0e979cce527511e05a92f30d9886d86ca83c71b479cd08598ac28369e07",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 50357,
+  "internal_links_checked": 50576,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
