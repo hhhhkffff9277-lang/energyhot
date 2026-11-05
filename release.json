@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-11-05T10:49:04.370041+00:00",
-  "finished_at": "2026-11-05T10:52:20.070947+00:00",
+  "started_at": "2026-11-05T11:03:25.015354+00:00",
+  "finished_at": "2026-11-05T11:06:52.321962+00:00",
   "public_url": "https://hhhhkffff9277-lang.github.io/energyhot/",
   "native_status": {
     "contract": "energyhot-reader-v1",
-    "at": "2026-11-05T10:49:04.397Z",
-    "live": 696,
-    "selected": 20,
-    "updated": "2026-11-05T10:39:21.195Z",
-    "events": 558,
+    "at": "2026-11-05T11:03:25.052Z",
+    "live": 698,
+    "selected": 21,
+    "updated": "2026-11-05T11:02:29.434Z",
+    "events": 560,
     "daily_editions": 10,
     "categories": [
       {
@@ -16,7 +16,7 @@
         "category": "ai_energy"
       },
       {
-        "count": 20,
+        "count": 21,
         "category": "coal"
       },
       {
@@ -44,7 +44,7 @@
         "category": "power_grid"
       },
       {
-        "count": 67,
+        "count": 68,
         "category": "storage"
       },
       {
@@ -109,23 +109,23 @@
       }
     ],
     "hot": 2,
-    "hot_updated": "2026-11-05T10:48:06.112Z",
+    "hot_updated": "2026-11-05T11:02:26.776Z",
     "archive": 405,
     "modelsCalled": 0
   },
-  "stories_exported": 696,
-  "pages_exported": 1347,
+  "stories_exported": 698,
+  "pages_exported": 1351,
   "unavailable_routes": {},
   "models_called": 0,
   "collector_calls": 0,
-  "release_id": "20261105T104904-2332caf7",
-  "content_digest": "60432996a74990000a648da83d322d20ce8f883f44f6d36d3f748d73480edf36",
+  "release_id": "20261105T110325-2d871636",
+  "content_digest": "10e267d2183fecdca4f7a67cb7b5b1b45b6224cb03ede14c264beafb7c2c2400",
   "exporter_sha256": "31e72f1000562dcb94c758f8dfd2203a76b6e2bfa0c22977c67b201eb99db738",
   "automatic_sync_installed": true,
   "sync_interval_seconds": 600,
   "private_archive_exported": false,
   "workbench_exported": false,
-  "internal_links_checked": 50938,
+  "internal_links_checked": 51089,
   "internal_broken_links": 0,
   "upstream_brand_assets_exported": false,
   "unconfirmed_terms_exported": false,
